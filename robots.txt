@@ -1,3 +1,3 @@
-Sitemap: https://smol.live/sitemap.xml
+Sitemap: https://dnipro.fund/sitemap.xml
 User-agent: *
 Disallow:

@@ -8,28 +8,33 @@
 
 
 <url>
-  <loc>https://smol.live/</loc>
-  <lastmod>2020-12-27T03:35:55+00:00</lastmod>
+  <loc>https://dnipro.fund/</loc>
+  <lastmod>2022-03-13T19:16:42+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://smol.live/index.html</loc>
-  <lastmod>2020-12-27T03:35:55+00:00</lastmod>
+  <loc>https://dnipro.fund/index.html</loc>
+  <lastmod>2022-03-13T19:16:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://smol.live/projects.html</loc>
-  <lastmod>2020-12-26T22:21:36+00:00</lastmod>
+  <loc>https://dnipro.fund/aboutpeople.html</loc>
+  <lastmod>2022-03-13T19:16:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://smol.live/resume.html</loc>
-  <lastmod>2020-12-27T14:42:24+00:00</lastmod>
+  <loc>https://dnipro.fund/updates.html</loc>
+  <lastmod>2022-03-13T19:16:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://smol.live/contact.html</loc>
-  <lastmod>2020-12-26T22:21:28+00:00</lastmod>
+  <loc>https://dnipro.fund/donate.html</loc>
+  <lastmod>2022-03-13T19:16:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dnipro.fund/contact.html</loc>
+  <lastmod>2022-03-13T19:16:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
