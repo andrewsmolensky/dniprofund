@@ -1,0 +1,3 @@
+Sitemap: https://smol.live/sitemap.xml
+User-agent: *
+Disallow:
